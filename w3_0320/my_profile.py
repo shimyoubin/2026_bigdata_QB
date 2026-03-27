@@ -26,7 +26,7 @@ st.write('## 관심 분야')
 st.write('- 머신러닝')
 st.write('- 데이터 시각화')
 st.write('- 데이터 분석')
-st.write('---')
+st.write('---')ex
 st.write('## 이번 학기 목표')
 goals = pd.DataFrame({
  '목표': ['Streamlit 마스터', 'HuggingFace 활용', '포트폴리오 완성'],
