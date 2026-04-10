@@ -16,4 +16,15 @@ git remote add origin https://github.com/본인계정/bigdata-project.git
 # 브랜치 이름 변경 및 Push
 git branch -M main
 git push -u origin main
-.xlkj
+
+# 스트림릿 app.py 실행
+streamlit run app.py
+
+| 명령어 | 설명 |
+|--------|------|
+| `git status` | 현재 변경 상태 확인 |
+| `git log --oneline` | 커밋 이력 간략 조회 |
+| `git remote -v` | 연결된 원격 저장소 확인 |
+| `git remote remove origin` | 원격 저장소 연결 해제 |
+
+pip install -r requirements.txt
