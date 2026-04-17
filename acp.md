@@ -11,7 +11,7 @@ git add .
 git commit -m "프로젝트 초기 설정"
 
 # 원격 저장소 연결
-git remote add origin https://github.com/본인계정/bigdata-project.git
+git remote add origin https://github.com/shimyoubin/2026_bigdata_QB.git
 
 # 브랜치 이름 변경 및 Push
 git branch -M main
@@ -28,3 +28,7 @@ streamlit run app.py
 | `git remote remove origin` | 원격 저장소 연결 해제 |
 
 pip install -r requirements.txt
+
+# 초기 설정
+git config --global user.email "shimub05@naver.com"
+git config --global user.name "Youbin"
