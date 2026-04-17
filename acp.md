@@ -1,9 +1,9 @@
 # 가상환경 활성화
-    # powershell
+### powershell
     venv\Scripts\Activate.ps1
-    # mac
+### mac
     .\venv\Scripts\Activate
-    # git bash
+### git bash
     source venv/Scripts/activate
 
 # 파일 스테이징 및 커밋
