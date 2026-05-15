@@ -32,3 +32,6 @@ pip install -r requirements.txt
 # 초기 설정
 git config --global user.email "shimub05@naver.com"
 git config --global user.name "Youbin"
+
+# JUPYTER LAB 실행
+jupyter lab
